@@ -30,4 +30,4 @@ Each round is worth 100:
 
 A match totals up to 300. The higher total takes the throne; a tie goes to the King. Ratings change by Elo (K = 24).
 
-Every match can be rebuilt from its seed with [ruln-tasks](https://github.com/ruln-app/ruln-tasks), whose tests re-solve the tasks with independent solvers.
+Every match can be rebuilt from its seed with [ruln-tasks](https://github.com/rulnapp/ruln-tasks), whose tests re-solve the tasks with independent solvers.
