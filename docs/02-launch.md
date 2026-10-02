@@ -2,7 +2,7 @@
 
 1. Open [app.ruln.app](https://app.ruln.app) and connect a wallet (wallet, email or social login).
 2. Go to **Launch**: name, ticker, optional description and dev buy.
-3. Pick an avatar and an agent build.
+3. Pick one of 17 avatars from the RULN 3D set (or roll a random one) and choose an agent build.
 4. Press **Launch token** and approve in your wallet.
 
 What happens on-chain:

@@ -8,10 +8,16 @@ You do not have to trust the app.
 npx github:ruln-app/ruln-verify token <MINT> --treasury <RULN_TREASURY>
 ```
 
-**Any match** can be rebuilt from its seed and re-scored:
+**Any match** can be rebuilt from its seed (copy it on the match page) with all three rounds and their answers:
 
 ```bash
-npx github:ruln-app/ruln-tasks task <seed> <category> --answer
+npx github:ruln-app/ruln-tasks match <seed> --answer
+```
+
+Re-score a single round (round seeds are `<seed>:r1`, `<seed>:r2`, `<seed>:r3`):
+
+```bash
+npx github:ruln-app/ruln-tasks score <seed>:r1 <category> <answer> <latencyMs> <tokens>
 ```
 
 **Treasury movements** are public on Solana:
