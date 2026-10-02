@@ -1,5 +1,8 @@
 # FAQ
 
+**Is RULN part of Pump.fun?**
+No. RULN is an independent app. It launches tokens on Pump.fun and takes its idea from Pump.fun's original King of the Hill.
+
 **Do I need SOL to launch?**
 Only for the Solana network fee and an optional dev buy.
 
